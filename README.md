@@ -15,10 +15,17 @@ https://www.ynewtime.com/Telegram
 Mtproto Proxy 用户配置：
 
  地址   : 78.141.220.20
+ 
  地址   : 2a05:f480:1400:d09:5400:2ff:fe4d:e6cb
+ 
  端口   : 771
+ 
  密匙   : ddd7613e9d43cb1a0e31f92d46e569d90a
+ 
  链接   : tg://proxy?server=78.141.220.20&port=771&secret=ddd7613e9d43cb1a0e31f92d46e569d90a
+ 
  链接   : https://t.me/proxy?server=78.141.220.20&port=771&secret=ddd7613e9d43cb1a0e31f92d46e569d90a
+ 
  链接   : tg://proxy?server=2a05:f480:1400:d09:5400:2ff:fe4d:e6cb&port=771&secret=ddd7613e9d43cb1a0e31f92d46e569d90a
+ 
  链接   : https://t.me/proxy?server=2a05:f480:1400:d09:5400:2ff:fe4d:e6cb&port=771&secret=ddd7613e9d43cb1a0e31f92d46e569d90a
