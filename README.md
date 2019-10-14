@@ -30,3 +30,5 @@ Mtproto Proxy 用户配置：
  链接   : tg://proxy?server=2a05:f480:1400:d09:5400:2ff:fe4d:e6cb&port=771&secret=ddd7613e9d43cb1a0e31f92d46e569d90a
  
  链接   : https://t.me/proxy?server=2a05:f480:1400:d09:5400:2ff:fe4d:e6cb&port=771&secret=ddd7613e9d43cb1a0e31f92d46e569d90a
+ 
+ 注：经google搜索及本人测试，IPV6地址不适用Android安卓客户端，但IPV6在Windows客户端可用。
