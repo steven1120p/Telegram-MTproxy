@@ -5,7 +5,7 @@
 庆幸的是该软件内置代理选项，进入APP的Settings(设置)—Data and Storage(数据和存储)，找到相应的应用填入信息即可免FQ使用。
 
 测试建立Telegram MTproxy电报代理服务器端并分享
-https://www.ynewtime.com/Telegram
+https://www.moerats.com/archives/650/
 
 希望自建安全通讯软件Telegram所需MT代理的朋友可以参考上述文章自建。自建要求不高，只需中国大陆以外，即国外机房的VPS服务器。(ˇˍˇ) 
 
