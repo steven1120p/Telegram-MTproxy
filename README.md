@@ -31,6 +31,6 @@ Mtproto Proxy 用户配置：
  
  链接   : https://t.me/proxy?server=2a05:f480:1400:d09:5400:2ff:fe4d:e6cb&port=771&secret=ddd7613e9d43cb1a0e31f92d46e569d90a
  
- 注：经google搜索及本人测试，MTproxyf代理服务器的IPV6地址不适用Android安卓客户端，但IPV6在Windows客户端可用。
+ 注：经google搜索及本人测试，MTproxy代理服务器的IPV6地址不适用Android安卓客户端，但IPV6在Windows客户端可用。
 
 补充一下：IPV4地址上的MTproxy在第二天就被封了。IPV6还在。
